@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-Jupyter/*
+jupyter/*
 
 # C extensions
 *.so
